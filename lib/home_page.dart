@@ -7,7 +7,7 @@ import 'package:pruebaeco/usuario_detalle.dart';
 
 
 
-String value="";
+
 class HomePage extends StatefulWidget {
   
   @override
@@ -16,6 +16,7 @@ class HomePage extends StatefulWidget {
 
 class _HomePageState extends State<HomePage> {
   String _counter; 
+  String value="";
 
   
 
